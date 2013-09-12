@@ -1,27 +1,22 @@
 {
   "name": "hubot-what-the-fox",
   "description": "Hubot know's what the fox say!",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Tyler Clemens (https://github.com/TClemens)",
   "license": "MIT",
-
   "keywords": [
     "hubot",
     "hubot-scripts"
   ],
-
   "repository": {
     "type": "git",
     "url": "git://github.com/TClemens/hubot-what-the-fox.git"
   },
-
   "bugs": {
     "url": "https://github.com/TClemens/hubot-what-the-fox/issues"
   },
-
   "dependencies": {
     "coffee-script": "~1.6"
   },
-
   "main": "index.coffee"
 }
