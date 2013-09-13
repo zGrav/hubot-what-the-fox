@@ -15,8 +15,6 @@
   "bugs": {
     "url": "https://github.com/TClemens/hubot-what-the-fox/issues"
   },
-  "dependencies": {
-    "coffee-script": "~1.6"
-  },
+
   "main": "index.coffee"
 }
