@@ -13,16 +13,4 @@
 module.exports = (robot) ->
 
   robot.respond /what does the fox say/i, (msg) ->
-    msg.send "🐶 goes woof"
-            ,"🐱 goes meow"
-            ,"🐦 goes tweet"
-            ,"and the 🐭 goes squeek"
-            ,"🐮 goes moo"
-            ,"🐸 goes croak"
-            ,"and the 🐘 goes toot"
-            ,"🐥 says quack"
-            ,"and 🐟 goes blub"
-            ,"and the 🐬 goes ow ow ow"
-            ,"But there's one sound"
-            ,"That no one knows..."
-            ,"What does the 🐺 say!?"
+    msg.send "🐶 goes woof\n🐱 goes meow\n🐦 goes tweet\nand the 🐭 goes squeek\n🐮 goes moo\n🐸 goes croak\nand the 🐘 goes toot\n🐥 says quack\nand 🐟 goes blub\nand the 🐬 goes ow ow ow\nBut there's one sound\nThat no one knows...\nWhat does the 🐺 say!?"
